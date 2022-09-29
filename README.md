@@ -34,6 +34,16 @@
   * *Se creo el index.html agregando la card con la imagen, nombre y descripcion del producto.*<br>
   * *Se creo un archivo en scss con los estilos de google fonts, variables, base, fuente,tipografia,card y el hover card efect( es el efecto que se le da al pasar el       puntero por la imagen).*
   * *Se agrego otra card con el mismo efecto y con diferentes productos.* 
-  
+#### Proyecto Product Card
+* *Se diseño 4 cards que pueden cambiar de orden con solo dar clik sostenido y soltar en un lugar seleccionado.*
+* *Se creo y modifico un archivo index.html para contener los 4 objetos.* 
+* *Se agrego las librerias css,js y sortable.js de boxicons.*
+* *Se le dio funcionalidad con javascript para que tenga el efecto drag and drop(arrastrar y soltar).*
+#### Proyecto Product Card personalizado
+* *Se diseño 5 cards que pueden cambiar de orden con solo dar clik sostenido y soltar en un lugar seleccionado.*
+* *Se creo y modifico un archivo index.html para contener los 5 objetos.* 
+* *Se agrego las librerias css,js y sortable.js de boxicons.*
+* *Se le dio funcionalidad con javascript para que tenga el efecto drag and drop(arrastrar y soltar).* 
+* *Se diseño una card que despliega a los 5  integrantes de nuestro grupo con nombre,cargo y foto de perfil.* 
   
   
