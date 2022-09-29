@@ -23,8 +23,10 @@
   *Se descargaron las extensiones Live Server y Live Sass Compiler.<br>
   *Se configuro el archivo settings.json.<br>
   *Se creo y modifico el archivo index.html.<br>
-  *Se personalizo los estilos en scss para el diseño personalizado.<br>  
+  *Se personalizo los estilos en scss para el diseño personalizado.  
   *Se personalizo el proyecto agregando una imagen dentro de otra desde el scss.<br>
+#### Proyecto   
+  
   
   
   
