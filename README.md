@@ -28,9 +28,11 @@
 #### Proyecto Drag and Drop
   * *Se diseño un product card que al pasar el puntero por encima de la imagen se inclina y muestra una pequeña descripcion del producto*<br>
   * *Se creo el index.html agregando la card con la imagen, nombre y descripcion del producto.*<br>
-  * *Se creo un archivo en scss con los estilos de google fonts, variables, base, fuente,tipografia,card y el hover card efect( es el efecto que se le da al pasar el       puntero por la imagen).* 
+  * *Se creo un archivo en scss con los estilos de google fonts, variables, base, fuente,tipografia,card y el hover card efect( es el efecto que se le da al pasar el       puntero por la imagen).*
+  * *se mejoro diseño
 #### Proyecto Drag and Drop personalizado
   * *Se diseño un product card que al pasar el puntero por encima de la imagen se inclina y muestra una pequeña descripcion del producto*<br>
+  * *se mejoro diseño como cambios de colores.
   * *Se creo el index.html agregando la card con la imagen, nombre y descripcion del producto.*<br>
   * *Se creo un archivo en scss con los estilos de google fonts, variables, base, fuente,tipografia,card y el hover card efect( es el efecto que se le da al pasar el       puntero por la imagen).*
   * *Se agrego otra card con el mismo efecto y con diferentes productos.* 
