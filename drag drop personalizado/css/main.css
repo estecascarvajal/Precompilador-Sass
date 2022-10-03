@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap");
 /*==variables css ==*/
 :root {
-  --first-color: #272a3a;
-  --first-color-light: #8a8eaa;
-  --first-color-lighten: #f8f8fc;
+  --first-color: #ff0909;
+  --first-color-light: #182681;
+  --first-color-lighten: #094b19;
   --body-font:"Ubuntu", sans-serif;
   --normal-font-size: 1rem;
   --small-font-size: .813rem;
@@ -51,8 +51,9 @@ img {
 .drop_container {
   row-gap: 1rem;
   padding: 2rem;
-  -webkit-box-shadow: 4px 4px 16px #e1e1e1;
-          box-shadow: 4px 4px 16px #e1e1e1;
+  -webkit-box-shadow: 4px 4px 16px #000000;
+          box-shadow: 4px 4px 16px #000000;
+  border-radius: 28px;
 }
 
 .drop_card, .drop_data {
@@ -71,8 +72,8 @@ img {
           justify-content: space-between;
   padding: 0.75rem 1.25rem 0.75rem 0.75rem;
   background-color: var(--first-color-lighten);
-  -webkit-box-shadow: 4px 4px 16px #e1e1e1, -2px -2px 16px #fff;
-          box-shadow: 4px 4px 16px #e1e1e1, -2px -2px 16px #fff;
+  -webkit-box-shadow: 4px 4px 16px #0fffcb, -2px -2px 16px rgb(238, 18, 18);
+          box-shadow: 4px 4px 16px #0fffcb, -2px -2px 16px rgb(238, 18, 18);
   border-radius: 2.5rem;
 }
 
@@ -106,8 +107,8 @@ img {
 }
 
 .sortable-chosen {
-  -webkit-box-shadow: 8px 8px 32px #e1e1e1;
-          box-shadow: 8px 8px 32px #e1e1e1;
+  -webkit-box-shadow: 8px 8px 32px #e9e50c;
+          box-shadow: 8px 8px 32px #e9e50c;
 }
 
 .sortable-drag {
