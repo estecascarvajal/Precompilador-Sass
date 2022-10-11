@@ -29,7 +29,7 @@
   * *Se diseño un product card que al pasar el puntero por encima de la imagen se inclina y muestra una pequeña descripcion del producto*<br>
   * *Se creo el index.html agregando la card con la imagen, nombre y descripcion del producto.*<br>
   * *Se creo un archivo en scss con los estilos de google fonts, variables, base, fuente,tipografia,card y el hover card efect( es el efecto que se le da al pasar el       puntero por la imagen).*
-  * *se mejoro diseño
+  * *Mejora y cambio de diseño*
 #### Proyecto Product Card personalizado
   * *Se diseño un product card que al pasar el puntero por encima de la imagen se inclina y muestra una pequeña descripcion del producto*<br>
   * *se mejoro diseño como cambios de colores.
@@ -47,5 +47,6 @@
 * *Se agrego las librerias css,js y sortable.js de boxicons.*
 * *Se le dio funcionalidad con javascript para que tenga el efecto drag and drop(arrastrar y soltar).* 
 * *Se diseño una card que despliega a los 5  integrantes de nuestro grupo con nombre,cargo y foto de perfil.* 
+* *Mejora y cambio de diseño: colores*
   
   
